@@ -1,0 +1,6 @@
+Node,Keywords,Commands
+usb_cam,"camera,camera feed,RGB,usb camera",python3 usb_cam_code.py 1
+realsense_node,"realsense,intel realsense,rgbd,depth camera,pcl,pcl data,scan,imu,imu data,depth data",echo something
+turtlebot3_node,"turtlebot3,turtlebot",roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
+scan_node,"scan,lidar,laser",echo something
+move_base_node,"autonomous navigation,navigation,lidar,scan,odometry",echo something

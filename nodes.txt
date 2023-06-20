@@ -1,0 +1,5 @@
+usb_cam,camera,camera feed,RGB,usb camera
+realsense_node,realsense,intel realsense,rgbd,depth camera,pcl,pcl data,scan,imu,imu data,depth data
+turtlebot3_node,turtlebot3,turtlebot,robot
+scan_node,scan,lidar,laser
+move_base_node,autonomous navigation,navigation,lidar,scan,odometry
